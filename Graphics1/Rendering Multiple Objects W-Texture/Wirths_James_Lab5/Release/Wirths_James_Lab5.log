@@ -1,0 +1,39 @@
+﻿  stdafx.cpp
+  RasterSurface.cpp
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rastersurface.cpp(109): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  Wirths_James_Lab5.cpp
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(47): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(50): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(53): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(56): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(167): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(168): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(315): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(426): warning C4244: '*=': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(427): warning C4244: '*=': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(428): warning C4244: '*=': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(429): warning C4244: '*=': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\mymath.h(437): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\shaders.h(45): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\shaders.h(46): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(101): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(102): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(104): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(109): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(110): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(114): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(130): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(253): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\rasteriser.h(265): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\wirths_james_lab5.cpp(11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day vii\lab vii\wirths_james_lab5\wirths_james_lab5\wirths_james_lab5.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Wirths_James_Lab5.vcxproj -> H:\FullSail\Computer Graphics\GX1 Day VII\Lab VII\Wirths_James_Lab5\Release\Wirths_James_Lab5.exe

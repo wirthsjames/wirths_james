@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  RasterSurface.cpp
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rastersurface.cpp(109): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  Wirths_James_Lab3.cpp
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\mymath.h(47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(23): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(25): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(30): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(31): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\fullsail\computer graphics\gx1 day iii\lab iii\wirths_james_lab3\wirths_james_lab3\rasterizer.h(153): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  Wirths_James_Lab3.vcxproj -> H:\FullSail\Computer Graphics\GX1 Day III\Lab III\Wirths_James_Lab3\Debug\Wirths_James_Lab3.exe

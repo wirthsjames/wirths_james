@@ -1,0 +1,37 @@
+﻿  Wirths_James_Lab2.cpp
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(47): warning C4018: '<': signed/unsigned mismatch
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(134): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(135): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(139): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(140): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(148): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(149): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(160): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(181): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(182): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(216): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(217): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(256): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(258): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(293): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(295): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(338): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(339): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(347): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(352): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(357): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(362): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(370): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(375): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(380): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(385): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(390): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(391): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(432): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(435): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(438): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+h:\fullsail\computer graphics\gx1 day ii\lab ii\wirths_james_lab2\wirths_james_lab2\wirths_james_lab2.cpp(441): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  Wirths_James_Lab2.vcxproj -> H:\FullSail\Computer Graphics\GX1 Day II\Lab II\Wirths_James_Lab2\Debug\Wirths_James_Lab2.exe

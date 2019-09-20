@@ -1,0 +1,23 @@
+﻿  Wirths_James_Lab4.cpp
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\mymath.h(104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\mymath.h(105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\mymath.h(244): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(21): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(24): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(29): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(30): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\rasteriser.h(152): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\wirths_james_lab4.cpp(31): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\wirths_james_lab4.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\wirths_james_lab4.cpp(45): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\wirths_james_lab4.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\fullsail\computer graphics\gx1 day iv\lab iv\wirths_james_lab4\wirths_james_lab4\wirths_james_lab4.cpp(73): warning C4305: 'argument': truncation from 'double' to 'float'
+  Wirths_James_Lab4.vcxproj -> F:\FullSail\Computer Graphics\GX1 Day IV\Lab IV\Wirths_James_Lab4\Debug\Wirths_James_Lab4.exe
